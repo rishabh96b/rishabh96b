@@ -1,4 +1,4 @@
-![Image](https://github.com/rishabh96b/rishabh96b/blob/main/greetings.gif)
+<!--![Image](https://github.com/rishabh96b/rishabh96b/blob/main/greetings.gif)-->
 
 <div align="center">
   <!-- <h2>Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> -->
